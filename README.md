@@ -6,7 +6,24 @@
 
 ---
 
-## 1. Municipal Code
+## 1. Open Data & API Access
+
+| Resource | Link | Notes |
+|----------|------|-------|
+| City of San Diego Open Data Portal | [data.sandiego.gov](https://data.sandiego.gov/) | Hundreds of machine-readable datasets. CSV, JSON, API access. |
+| Open Data — All Datasets | [data.sandiego.gov/datasets](https://data.sandiego.gov/datasets/) | Browse/filter all available datasets. |
+| Open Data — Getting Started | [data.sandiego.gov/get-started](https://data.sandiego.gov/get-started/) | API documentation and usage guides. |
+| Open Source Projects | [data.sandiego.gov/open-source](https://data.sandiego.gov/open-source/) | City-maintained open source code on GitHub. |
+| Government Publications (Library) | [sandiego.gov/public-library/govpub](https://www.sandiego.gov/public-library/govpub) | Historical and current government publications. |
+
+### Hackathon Tips — Open Data
+- The Open Data Portal supports **Socrata/SODA API** — you can query datasets programmatically with filters, pagination, and JSON responses.
+- Start at the "Get Started" page for API keys and endpoint documentation.
+- Datasets cover topics including permits, code enforcement, police calls, traffic, budgets, and more.
+
+---
+
+## 2. Municipal Code
 
 | Resource | Link | Notes |
 |----------|------|-------|
@@ -21,7 +38,7 @@
 
 ---
 
-## 2. Council Transcripts & Meeting Records
+## 3. Council Transcripts & Meeting Records
 
 | Resource | Link | Notes |
 |----------|------|-------|
@@ -40,7 +57,7 @@
 
 ---
 
-## 3. Permitting Codes & Guidelines
+## 4. Permitting Codes & Guidelines
 
 | Resource | Link | Notes |
 |----------|------|-------|
@@ -53,36 +70,5 @@
 
 ### Hackathon Tips — Permitting
 - UpCodes has the most developer-friendly interface for code lookups.
-- Building permit data may also appear in the Open Data Portal (see below).
+- Building permit data may also appear in the Open Data Portal (see above).
 - For permit status lookups, the city uses the **OpenDSD** system at [opendsd.sandiego.gov](https://opendsd.sandiego.gov).
-
----
-
-## 4. Open Data & API Access (Bonus for Hackathon)
-
-| Resource | Link | Notes |
-|----------|------|-------|
-| City of San Diego Open Data Portal | [data.sandiego.gov](https://data.sandiego.gov/) | Hundreds of machine-readable datasets. CSV, JSON, API access. |
-| Open Data — All Datasets | [data.sandiego.gov/datasets](https://data.sandiego.gov/datasets/) | Browse/filter all available datasets. |
-| Open Data — Getting Started | [data.sandiego.gov/get-started](https://data.sandiego.gov/get-started/) | API documentation and usage guides. |
-| Open Source Projects | [data.sandiego.gov/open-source](https://data.sandiego.gov/open-source/) | City-maintained open source code on GitHub. |
-| Government Publications (Library) | [sandiego.gov/public-library/govpub](https://www.sandiego.gov/public-library/govpub) | Historical and current government publications. |
-
-### Hackathon Tips — Open Data
-- The Open Data Portal supports **Socrata/SODA API** — you can query datasets programmatically with filters, pagination, and JSON responses.
-- Start at the "Get Started" page for API keys and endpoint documentation.
-- Datasets cover topics including permits, code enforcement, police calls, traffic, budgets, and more.
-
----
-
-## Quick Contact
-
-| Contact | Details |
-|---------|---------|
-| City Clerk (transcripts, municipal code) | **(619) 533-4000** · cityclerk@sandiego.gov |
-| Development Services (permits, codes) | [sandiego.gov/development-services](https://www.sandiego.gov/development-services) |
-| Open Data Portal | [data.sandiego.gov](https://data.sandiego.gov) |
-
----
-
-*Last verified: February 25, 2026*
