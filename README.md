@@ -1,9 +1,5 @@
 # Claude Community x City of SD Hackathon
 
-# City of San Diego — Municipal Resources
-
-> **Hackathon Quick Reference** — All links verified Feb 25, 2026. Includes open data endpoints, API access, and machine-readable sources where available.
-
 ---
 
 ## 1. Open Data & API Access
