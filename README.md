@@ -1,5 +1,7 @@
 # Claude Community x City of SD Hackathon
 
+> **Disclaimer:** All data and resources linked below are subject to their respective terms of access and terms of service. Participants are responsible for reviewing and complying with applicable usage policies, licensing terms, API rate limits, and data use restrictions before accessing or incorporating any data into their projects.
+
 ---
 
 ## 1. Open Data & API Access
@@ -28,9 +30,7 @@
 | Codes & Regulations (Dev Services) | [sandiego.gov/development-services/codes-regulations](https://www.sandiego.gov/development-services/codes-regulations) | Local amendments to California Building Standards Code (Title 24). 2025 CBC effective Jan 1, 2026; local amendments expected March–April 2026. |
 
 ### Hackathon Tips — Municipal Code
-- The American Legal Publishing version is easier to scrape/parse than the official site.
 - The Municipal Code is HTML-structured with predictable chapter/section IDs.
-- No official API exists; consider scraping or using cached copies.
 
 ---
 
