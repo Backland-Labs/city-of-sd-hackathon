@@ -1,4 +1,4 @@
-# Claude Community x City of SD Hackathon
+# Claude Community x City of SD Impact Lab
 
 > **Disclaimer:** All data and resources linked below are subject to their respective terms of access and terms of service. Participants are responsible for reviewing and complying with applicable usage policies, licensing terms, API rate limits, and data use restrictions before accessing or incorporating any data into their projects.
 
