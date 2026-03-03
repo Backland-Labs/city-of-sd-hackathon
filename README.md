@@ -4,7 +4,7 @@
 
 ---
 
-## 1. Open Data & API Access
+## 1. Open Data Portal
 
 | Resource | Link | Notes |
 |----------|------|-------|
@@ -15,8 +15,6 @@
 | Government Publications (Library) | [sandiego.gov/public-library/govpub](https://www.sandiego.gov/public-library/govpub) | Historical and current government publications. |
 
 ### Hackathon Tips — Open Data
-- The Open Data Portal supports **Socrata/SODA API** — you can query datasets programmatically with filters, pagination, and JSON responses.
-- Start at the "Get Started" page for API keys and endpoint documentation.
 - Datasets cover topics including permits, code enforcement, police calls, traffic, budgets, and more.
 
 ---
