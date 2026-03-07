@@ -1,0 +1,10 @@
+{
+  "mcpServers": {
+    "sandag-rdw": {
+      "command": "python",
+      "args": [
+        "/Users/jiaoyan/SD/sandag-mcp-server/server.py"
+      ]
+    }
+  }
+}
