@@ -98,11 +98,11 @@ Once added, you can submit your project directly through your MCP client using t
 Every project repo must include a README with the following:
 
 - **Team name**
-- **Team members** (names and roles)
+- **Team members**
 - **Problem statement** -- what civic problem are you solving?
 - **What it does** -- a short paragraph describing the application
 - **Data sources used** -- which city datasets or resources your project uses
-- **Architecture / approach** -- brief description (or diagram) of how the pieces fit together
+- **Architecture / approach** -- How did you use Claude to build it? How is Claude used inside the app?
 - **Links** -- URL to the live application, if deployed
 - **Demo video** -- a 60-second walkthrough of the application. Optional if your app is deployed and accessible via a public link; **required** if it is not.
 
